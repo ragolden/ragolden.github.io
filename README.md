@@ -1,3 +1,3 @@
 # A small Portfolio
 
-!(https://ragolden.github.io/)
+[Access the website here](https://ragolden.github.io/)
